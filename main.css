@@ -18,3 +18,10 @@
 body{
   background-color:rgb(245, 203, 235);
 }
+
+button {
+	width: 30px;
+	height: 30px;
+	background: transparent;
+	border: none !important;
+}​
