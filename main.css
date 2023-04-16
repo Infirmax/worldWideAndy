@@ -1,0 +1,20 @@
+.title{
+	font-size:50px; 
+	font-family:courier; 
+	color:rgb(151, 239, 242);
+	text-decoration: underline;
+	text-shadow: 2px 2px #220101;
+}
+
+.poem{
+	font-size:20px; 
+}
+
+.picture_poem{
+  display: flex;
+	flex-direction: row;
+}
+
+body{
+  background-color:rgb(245, 203, 235);
+}
